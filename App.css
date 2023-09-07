@@ -1,0 +1,40 @@
+.App {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  color: black;
+}
+.Header {
+  background-color: #272a5a;
+  color: white;
+  font-size: 21px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h1 {
+  margin: 0%;
+}
+h4 {
+  text-align: center;
+}
+.form {
+  margin: 6%;
+  display: inline-block;
+}
+.data {
+
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  display: flex;
+}
+.data_val {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 60%;
+  padding: 6px;
+  margin-left: 25%;
+ 
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+}
